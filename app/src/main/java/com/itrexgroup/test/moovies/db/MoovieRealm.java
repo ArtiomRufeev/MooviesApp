@@ -1,10 +1,6 @@
 package com.itrexgroup.test.moovies.db;
 
 
-import com.google.gson.annotations.SerializedName;
-
-import java.io.Serializable;
-
 import io.realm.RealmObject;
 
 public class MoovieRealm extends RealmObject {
